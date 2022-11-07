@@ -21,7 +21,8 @@ Solution concept:
     b.Provide a feature in Apple Watches that saves them in difficult times.
     
 Persona: 
-![malak](https://user-images.githubusercontent.com/105976898/200325342-9fe3cdd3-326f-401f-94d5-89e404fbbd55.png)
+<img width="530" alt="Screenshot 1444-04-13 at 4 51 24 PM" src="https://user-images.githubusercontent.com/105976898/200326851-35ed4b4b-b104-4e7f-8e72-60ebe55af4b4.png">
+
 
 App Statement: An app that provides a platform for deaf-mute people  to ask for and receive services and for volunteers offer. This helps deaf-mute people to communicate better with others
 
