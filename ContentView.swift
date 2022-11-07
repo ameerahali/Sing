@@ -1,16 +1,9 @@
-//
-//  ContentView.swift
-//  Sign
-//
-//  Created by Jumanah  on 05/04/1444 AH.
-//
 
 import SwiftUI
 
 struct ContentView: View {
     @State var task: String = ""
     @State var details: String = ""
-//    let mylist = ["List Text Color","Navigation Title Color", "Implement Light Mode"]
   
     var body: some View {
 
@@ -18,18 +11,7 @@ struct ContentView: View {
 
             VStack(alignment: .center,spacing: 25){
                 
-                //HStack{
-                //                                Button(action: {
-                //                                }, label: {
-                //                                    Image(systemName: "chevron.left")
-                //                                })
-                //                                Spacer()
-                //                                VStack(spacing: 4){
-                //                                    Text("Ask for help")
-                //                                        .font(.title)
-                //                                        .background(Color(red: 0.401, green: 0.561, blue: 0.787))
-                //                                }
-                // }
+               
                 
                 TextField("Task name", text: $task)
                     .padding() .frame( width:340, height: 50, alignment: .top)
