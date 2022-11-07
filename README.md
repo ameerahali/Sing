@@ -37,7 +37,8 @@ low-fi:
 //picture
 
 mid-fi:
-//picture
+<img width="1013" alt="Screenshot 1444-04-13 at 4 46 52 PM" src="https://user-images.githubusercontent.com/105976898/200326118-5f5128a1-7853-4faa-be0f-6635ffc078e6.png">
+
 
 high-fi:
 //picture
