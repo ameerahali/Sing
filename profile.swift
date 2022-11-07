@@ -1,9 +1,3 @@
-//
-//  profile.swift
-//  Sign
-//
-//  Created by Jumanah  on 09/04/1444 AH.
-//
 
 import SwiftUI
 
@@ -63,15 +57,14 @@ struct profile: View {
                             .toolbarBackground(.visible, for: .navigationBar)
                             .navigationBarTitleDisplayMode(.inline)
 
-                        
-                        //.padding()
+                       
                             .foregroundColor(Color(hue: 1.0, saturation: 0.002, brightness: 0.001))
                             .frame( width: 260, height: 50)
                             .background(Color(red: 0.781, green: 0.841, blue: 0.921))
                             .font(.headline)
                             .cornerRadius(12)
                         
-                    }// label end
+                    }
                     )
                     
                 }
