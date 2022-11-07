@@ -47,5 +47,5 @@ high-fi:
 
 
 Solution:
-//picture
+<img width="1030" alt="slo" src="https://user-images.githubusercontent.com/105976898/200327087-4adb2968-61aa-41a8-acf7-30060c057930.png">
 
