@@ -34,7 +34,9 @@ Features:
 Prototypes: 
 
 low-fi:
-//picture
+
+<img width="882" alt="Screenshot 1444-04-13 at 4 45 50 PM" src="https://user-images.githubusercontent.com/105976898/200325761-0e53b9c7-afd7-4577-942a-c351f42e828a.png">
+
 
 mid-fi:
 //picture
