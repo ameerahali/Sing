@@ -42,7 +42,8 @@ mid-fi:
 
 
 high-fi:
-//picture
+<img width="926" alt="Screenshot 1444-04-13 at 4 47 18 PM" src="https://user-images.githubusercontent.com/105976898/200326507-3321fdd8-3b75-4516-aa0b-7f66aa062c9e.png">
+
 
 Solution:
 //picture
